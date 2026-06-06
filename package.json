@@ -1,6 +1,6 @@
 {
   "name": "react-chat-ui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Composable chat UI kit (message list, bubbles, input) for React.",
   "type": "module",
   "license": "MIT",
